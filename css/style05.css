@@ -1,0 +1,45 @@
+*{
+    margin-left: 1%;
+}
+body{
+    margin: auto;
+    background-color: rgb(124, 124, 124) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.divSup{
+    display: inline-block;
+    background-color: bisque;
+    text-align: center;
+    width: 200px;
+    height: 100px;
+    border: 2px solid black;
+    margin-top: 2%;
+}
+.divSup:hover{
+    background-color: aqua;
+}
+#text > p:hover{
+    color: rgb(26, 218, 19);
+}
+#textReturn{
+    display: none;
+    background-color: aquamarine;
+}
+#textSumiu:hover > #textReturn{
+    display: block;
+    width: 80px;
+}
+a{
+    color: blueviolet;
+    text-decoration: none;
+}
+a:visited{
+    color: chartreuse;
+}
+a:hover{
+    text-decoration: underline;
+    color: black;
+}
+a:active{
+    color: aqua;
+}

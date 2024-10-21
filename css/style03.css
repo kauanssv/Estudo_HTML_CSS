@@ -1,0 +1,31 @@
+
+body{
+    margin: auto;
+    padding: auto; 
+    background-image: linear-gradient(to bottom, #EAC85B, #C0A96B, #8b7e57 );
+    height: 100%;
+}
+
+main{
+    background-color: rgb(243, 243, 243);
+    width: 600px;
+    margin-left: 30%;
+    box-shadow: 5px 5px 19px #817248;
+    border-radius: 10px;
+}
+h1{
+    color: rgb(34, 94, 94);
+    text-align: center;
+    padding-top: 8px;
+}
+h2{
+    color: rgb(24, 53, 80);
+}
+p{
+    text-align: justify;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 5PX;
+    padding-bottom: 5px;
+}

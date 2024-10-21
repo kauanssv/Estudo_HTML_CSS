@@ -1,0 +1,17 @@
+* {
+    margin: auto;
+    padding: auto;
+    height: 100%;
+    background-image: linear-gradient(35deg, #EAC85B, #C0A96B, #968B6C );
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color: aliceblue;
+    font-style: bold;
+    text-shadow: 
+        -1px -1px 0 black,
+        1px -1px 0 black,
+        -1px 1px 0 black,
+        1px 1px 0 black;
+}

@@ -1,0 +1,10 @@
+body{
+    margin: auto;
+}
+h1{
+    background-color: aquamarine;
+    width: 30%;
+    border-width: 10px;
+    border-style: solid;
+    margin: auto;
+}
